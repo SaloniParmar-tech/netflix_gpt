@@ -16,7 +16,10 @@
    then add these to index.css file:@tailwind base;
      @tailwind components;
      @tailwind utilities;
--
+
+- Header
+- Login form
+- Sign up form
 
 
 
